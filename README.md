@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning a lot of things
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me ...
+- 📫 How to reach me virtorf@etlgr.com
 
 <!---
 vorthkor/vorthkor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
