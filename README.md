@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me virtorf@etlgr.com
 - ✨ Checkout [my portfolio](https://vorthkor.github.io/portfolio/)
-- :nail_care: and my [ichi website](https://github.com/vorthkor)
+- :nail_care: and my [ichi website](https://vorthk.ichi.city/)
 
 <!---
 vorthkor/vorthkor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
