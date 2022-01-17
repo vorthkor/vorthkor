@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me virtorf@etlgr.com
-- - ✨ Checkout [my projects' portfolio](https://vorthkor.github.io/portfolio/)
+- ✨ Checkout [my projects' portfolio](https://vorthkor.github.io/portfolio/)
 - 🚀 About me at [https://vorthkor.github.io/](https://vorthkor.github.io/)
 <!---
 vorthkor/vorthkor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
