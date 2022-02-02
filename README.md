@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vorthkor
-- 👀 I’m interested in learning a lot of things
+- 👀 I'm interested in learning a lot of things
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on opensource projects
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me victorfbp@protonmail.com
 - ✨ Check out [my projects' portfolio](https://vorthkor.github.io/portfolio/)
 
