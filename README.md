@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vorthkor
 - 🌱 I’m currently improving my coding skills
-- 📫 Reach me at victorfbp at protonmail dot com
+- 📫 Reach me at victorfbp at proton dot me
 - ✨ Check out my github io page
 
 <!---
