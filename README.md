@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vorthkor
-- 🌱 I’m currently improving my coding skills
+- 🌱 I’m currently studying to improve my software development skills
 - 📫 Reach me at victorfbp at proton dot me
 - ✨ Check out my github io page
 
